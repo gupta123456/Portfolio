@@ -16,13 +16,8 @@ export class ProfileService {
   skillsData: any = [
     {
       'id': '1',
-      'skill': 'ANGULAR 6',
-      'progress': '85%'
-    },
-    {
-      'id': '2',
-      'skill': 'PHP\/CODEIGNITER',
-      'progress': '80%'
+      'skill': 'ANGULAR',
+      'progress': '90%'
     },
     {
       'id': '3',
@@ -32,11 +27,6 @@ export class ProfileService {
     {
       'id': '4',
       'skill': 'PYTHON',
-      'progress': '75%'
-    },
-    {
-      'id': '5',
-      'skill': 'ADOBE ILLUSTRATOR',
       'progress': '75%'
     },
     {
